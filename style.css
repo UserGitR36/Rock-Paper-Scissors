@@ -158,18 +158,19 @@ main{
 }
 
 #rock{
-  background-image: url("icons8-fist-67 1.png");
-
+background-color: #FFFFFF;
+border:20px solid #0074B6;
 }
 
 #scissor{
-  background-image: url("17911 1.png")
+background-color: #FFFFFF;
+border:20px solid #BD00FF;
 }
 
 #paper{
-  background-image: url("icons8-hand-64 1.png");
+background-color: #FFFFFF;
+border:20px solid #FFA943;
 }
-
 
 .result-zone {
   height: 90%;
